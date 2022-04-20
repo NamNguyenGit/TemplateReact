@@ -1,0 +1,7 @@
+export const LIST_POST = "LIST_POST";
+export const LIST_POST_SUCCESS = "LIST_POST_SUCCESS";
+export const LIST_POST_ERROR = "LIST_POST_ERROR";
+
+export const POST_DETAIL = "POST_DETAIL";
+export const POST_DETAIL_SUCCESS = "POST_DETAIL_SUCCESS";
+export const POST_DETAIL_ERROR = "POST_DETAIL_ERROR";
